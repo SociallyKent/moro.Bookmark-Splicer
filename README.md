@@ -1,4 +1,4 @@
-A refined version of the PlaceHolder counter-part. placeholder-Auto-Bookmark-Splicer
+A refined version of the PlaceHolder counter-part; placeholder.Bookmark-Splicer
 
 Adding bookmarks will only remove ones that held the space prior.
 Size is adjustable via resizing the window.
